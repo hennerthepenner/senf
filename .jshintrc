@@ -1,0 +1,11 @@
+{
+  "camelcase" : true,
+  "indent": 2,
+  "undef": true,
+  "quotmark": "double",
+  "maxlen": 80,
+  "trailing": true,
+  "curly": true,
+  "node": true,
+  "strict": true
+}
