@@ -1,0 +1,24 @@
+{
+  "name": "senf",
+  "preferGlobal": false,
+  "version": "0.0.0",
+  "author": "Hendrik Sander <hendrik.sander@googlemail.com>",
+  "description": "",
+  "contributors": [],
+  "bin": {},
+  "scripts": {},
+  "main": "",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hennerthepenner/senf.git"
+  },
+  "keywords": [],
+  "dependencies" : {},
+  "analyze": false,
+  "devDependencies": {},
+  "bundledDependencies": [],  
+  "license": "MIT",
+  "engines": {
+    "node": ">=0.10"
+  }
+}
