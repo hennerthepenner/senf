@@ -6,7 +6,9 @@
   "description": "",
   "contributors": [],
   "bin": {},
-  "scripts": {},
+  "scripts": {
+    "test": "NODE_ENV=test node node_modules/mocha/bin/mocha -R spec"
+  },
   "main": "",
   "repository": {
     "type": "git",
@@ -15,7 +17,9 @@
   "keywords": [],
   "dependencies" : {},
   "analyze": false,
-  "devDependencies": {},
+  "devDependencies": {
+    "mocha": "1.17.x"
+  },
   "bundledDependencies": [],  
   "license": "MIT",
   "engines": {
