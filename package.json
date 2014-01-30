@@ -16,7 +16,8 @@
   },
   "keywords": [],
   "dependencies" : {
-    "lodash": "2.4.x"
+    "lodash": "2.4.x",
+    "q": "1.0.x"
   },
   "analyze": false,
   "devDependencies": {
